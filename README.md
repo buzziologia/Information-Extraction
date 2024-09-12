@@ -19,5 +19,5 @@ Combustível": combustível,
 "Placa": placa, 
 "Chassi", chassi
 }
-  
-dados armazenados em diferentes datasets para posterior validação e incremento da precisão
+
+
